@@ -1,0 +1,17 @@
+{
+  "name": "tulip-syntax",
+  "theme": "syntax",
+  "version": "0.0.1",
+  "description": "A neon-pink and neon-green syntax theme for Atom",
+  "keywords": [
+    "syntax",
+    "theme"
+    "neon pink"
+    "neon green"
+  ],
+  "repository": "https://github.com/atom/tulip-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
